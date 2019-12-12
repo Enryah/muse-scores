@@ -1,2 +1,2 @@
-# LetItGo
-Musescore repo for PTX - Let it go
+# muse-scores
+Musescore repo for all relevant scores
