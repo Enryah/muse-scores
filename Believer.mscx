@@ -3892,7 +3892,7 @@
           <Tempo>
             <tempo>1</tempo>
             <followText>1</followText>
-            <text><b></b><font face="ScoreText"/><b><font face="FreeSerif"/> = 60</b></text>
+            <text><b></b><font face="ScoreText"></font><b><font face="FreeSerif"></font> = 60</b></text>
             </Tempo>
           <Tuplet>
             <normalNotes>2</normalNotes>
@@ -3905,6 +3905,10 @@
             </Tuplet>
           <Chord>
             <durationType>eighth</durationType>
+            <Lyrics>
+              <syllabic>begin</syllabic>
+              <text>rain</text>
+              </Lyrics>
             <Note>
               <pitch>68</pitch>
               <tpc>10</tpc>
@@ -3919,6 +3923,11 @@
             </Chord>
           <Chord>
             <durationType>eighth</durationType>
+            <Lyrics>
+              <syllabic>end</syllabic>
+              <ticks_f>0/12</ticks_f>
+              <text>ed</text>
+              </Lyrics>
             <Note>
               <pitch>68</pitch>
               <tpc>10</tpc>
@@ -3930,6 +3939,9 @@
             </Fermata>
           <Chord>
             <durationType>quarter</durationType>
+            <Lyrics>
+              <text>down!</text>
+              </Lyrics>
             <Note>
               <Spanner type="Tie">
                 <Tie>
@@ -3982,7 +3994,7 @@
             <dots>2</dots>
             <durationType>quarter</durationType>
             <Lyrics>
-              <text>pain!</text>
+              <text>Pain!</text>
               </Lyrics>
             <Note>
               <pitch>70</pitch>
@@ -9281,6 +9293,10 @@
             </Tuplet>
           <Chord>
             <durationType>eighth</durationType>
+            <Lyrics>
+              <syllabic>begin</syllabic>
+              <text>rain</text>
+              </Lyrics>
             <Note>
               <pitch>65</pitch>
               <tpc>13</tpc>
@@ -9295,6 +9311,11 @@
             </Chord>
           <Chord>
             <durationType>eighth</durationType>
+            <Lyrics>
+              <syllabic>end</syllabic>
+              <ticks_f>0/12</ticks_f>
+              <text>ed</text>
+              </Lyrics>
             <Note>
               <pitch>65</pitch>
               <tpc>13</tpc>
@@ -9306,6 +9327,9 @@
             </Fermata>
           <Chord>
             <durationType>half</durationType>
+            <Lyrics>
+              <text>down!</text>
+              </Lyrics>
             <Note>
               <Accidental>
                 <subtype>accidentalNatural</subtype>
@@ -9333,7 +9357,7 @@
             <dots>2</dots>
             <durationType>quarter</durationType>
             <Lyrics>
-              <text>pain!</text>
+              <text>Pain!</text>
               </Lyrics>
             <Note>
               <pitch>70</pitch>
@@ -14533,6 +14557,10 @@
             </Tuplet>
           <Chord>
             <durationType>eighth</durationType>
+            <Lyrics>
+              <syllabic>begin</syllabic>
+              <text>rain</text>
+              </Lyrics>
             <Note>
               <pitch>63</pitch>
               <tpc>11</tpc>
@@ -14547,6 +14575,11 @@
             </Chord>
           <Chord>
             <durationType>eighth</durationType>
+            <Lyrics>
+              <syllabic>end</syllabic>
+              <ticks_f>0/12</ticks_f>
+              <text>ed</text>
+              </Lyrics>
             <Note>
               <pitch>63</pitch>
               <tpc>11</tpc>
@@ -14558,6 +14591,9 @@
             </Fermata>
           <Chord>
             <durationType>quarter</durationType>
+            <Lyrics>
+              <text>down!</text>
+              </Lyrics>
             <Note>
               <Spanner type="Tie">
                 <Tie>
@@ -14605,7 +14641,7 @@
             <dots>2</dots>
             <durationType>quarter</durationType>
             <Lyrics>
-              <text>pain!</text>
+              <text>Pain!</text>
               </Lyrics>
             <Note>
               <pitch>70</pitch>
@@ -20922,6 +20958,10 @@
             </Tuplet>
           <Chord>
             <durationType>eighth</durationType>
+            <Lyrics>
+              <syllabic>begin</syllabic>
+              <text>rain</text>
+              </Lyrics>
             <Note>
               <Accidental>
                 <subtype>accidentalNatural</subtype>
@@ -20939,6 +20979,11 @@
             </Chord>
           <Chord>
             <durationType>eighth</durationType>
+            <Lyrics>
+              <syllabic>end</syllabic>
+              <ticks_f>0/12</ticks_f>
+              <text>ed</text>
+              </Lyrics>
             <Note>
               <pitch>57</pitch>
               <tpc>17</tpc>
@@ -20950,6 +20995,9 @@
             </Fermata>
           <Chord>
             <durationType>quarter</durationType>
+            <Lyrics>
+              <text>down!</text>
+              </Lyrics>
             <Note>
               <pitch>60</pitch>
               <tpc>14</tpc>
@@ -20974,7 +21022,7 @@
             <dots>2</dots>
             <durationType>quarter</durationType>
             <Lyrics>
-              <text>pain!</text>
+              <text>Pain!</text>
               </Lyrics>
             <Note>
               <pitch>58</pitch>
@@ -25769,6 +25817,10 @@
             </Dynamic>
           <Chord>
             <durationType>eighth</durationType>
+            <Lyrics>
+              <syllabic>begin</syllabic>
+              <text>rain</text>
+              </Lyrics>
             <Note>
               <pitch>53</pitch>
               <tpc>13</tpc>
@@ -25776,6 +25828,10 @@
             </Chord>
           <Chord>
             <durationType>eighth</durationType>
+            <Lyrics>
+              <syllabic>end</syllabic>
+              <text>ed</text>
+              </Lyrics>
             <Note>
               <pitch>54</pitch>
               <tpc>8</tpc>
@@ -25786,6 +25842,9 @@
             </Fermata>
           <Chord>
             <durationType>quarter</durationType>
+            <Lyrics>
+              <text>down!</text>
+              </Lyrics>
             <Note>
               <Accidental>
                 <subtype>accidentalNatural</subtype>
@@ -25803,6 +25862,9 @@
             </Rest>
           <Chord>
             <durationType>half</durationType>
+            <Lyrics>
+              <text>Pain!</text>
+              </Lyrics>
             <Note>
               <pitch>58</pitch>
               <tpc>12</tpc>
@@ -25835,6 +25897,7 @@
           <Chord>
             <durationType>half</durationType>
             <Lyrics>
+              <no>1</no>
               <text>Doo!</text>
               </Lyrics>
             <Note>
