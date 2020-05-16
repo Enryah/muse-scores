@@ -6273,12 +6273,19 @@
           <Rest>
             <durationType>eighth</durationType>
             </Rest>
-          <Rest>
-            <durationType>quarter</durationType>
-            </Rest>
-          <Rest>
+          <Chord>
             <dots>1</dots>
-            <durationType>eighth</durationType>
+            <durationType>quarter</durationType>
+            <Lyrics>
+              <text>ooh,</text>
+              </Lyrics>
+            <Note>
+              <pitch>73</pitch>
+              <tpc>9</tpc>
+              </Note>
+            </Chord>
+          <Rest>
+            <durationType>16th</durationType>
             </Rest>
           <Chord>
             <durationType>16th</durationType>
@@ -6468,7 +6475,7 @@
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
-              <text>er</text>
+              <text>er,</text>
               </Lyrics>
             <Note>
               <pitch>73</pitch>
@@ -6478,12 +6485,19 @@
           <Rest>
             <durationType>eighth</durationType>
             </Rest>
-          <Rest>
-            <durationType>quarter</durationType>
-            </Rest>
-          <Rest>
+          <Chord>
             <dots>1</dots>
-            <durationType>eighth</durationType>
+            <durationType>quarter</durationType>
+            <Lyrics>
+              <text>ooh,</text>
+              </Lyrics>
+            <Note>
+              <pitch>73</pitch>
+              <tpc>9</tpc>
+              </Note>
+            </Chord>
+          <Rest>
+            <durationType>16th</durationType>
             </Rest>
           <Chord>
             <durationType>16th</durationType>
@@ -6889,7 +6903,7 @@
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
-              <text>er</text>
+              <text>er,</text>
               </Lyrics>
             <Note>
               <pitch>73</pitch>
@@ -6899,12 +6913,19 @@
           <Rest>
             <durationType>eighth</durationType>
             </Rest>
-          <Rest>
-            <durationType>quarter</durationType>
-            </Rest>
-          <Rest>
+          <Chord>
             <dots>1</dots>
-            <durationType>eighth</durationType>
+            <durationType>quarter</durationType>
+            <Lyrics>
+              <text>ooh,</text>
+              </Lyrics>
+            <Note>
+              <pitch>73</pitch>
+              <tpc>9</tpc>
+              </Note>
+            </Chord>
+          <Rest>
+            <durationType>16th</durationType>
             </Rest>
           <Chord>
             <durationType>16th</durationType>
@@ -7230,24 +7251,13 @@
               </Note>
             </Chord>
           <Chord>
-            <dots>1</dots>
-            <durationType>eighth</durationType>
+            <durationType>quarter</durationType>
             <Lyrics>
               <text>to</text>
               </Lyrics>
             <Note>
               <pitch>58</pitch>
               <tpc>12</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>16th</durationType>
-            <Lyrics>
-              <text>a</text>
-              </Lyrics>
-            <Note>
-              <pitch>56</pitch>
-              <tpc>10</tpc>
               </Note>
             </Chord>
           </voice>
@@ -8438,12 +8448,19 @@
           <Rest>
             <durationType>eighth</durationType>
             </Rest>
-          <Rest>
-            <durationType>quarter</durationType>
-            </Rest>
-          <Rest>
+          <Chord>
             <dots>1</dots>
-            <durationType>eighth</durationType>
+            <durationType>quarter</durationType>
+            <Lyrics>
+              <text>ooh,</text>
+              </Lyrics>
+            <Note>
+              <pitch>73</pitch>
+              <tpc>9</tpc>
+              </Note>
+            </Chord>
+          <Rest>
+            <durationType>16th</durationType>
             </Rest>
           <Chord>
             <durationType>16th</durationType>
@@ -8633,7 +8650,7 @@
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
-              <text>er</text>
+              <text>er,</text>
               </Lyrics>
             <Note>
               <pitch>73</pitch>
@@ -8643,12 +8660,19 @@
           <Rest>
             <durationType>eighth</durationType>
             </Rest>
-          <Rest>
-            <durationType>quarter</durationType>
-            </Rest>
-          <Rest>
+          <Chord>
             <dots>1</dots>
-            <durationType>eighth</durationType>
+            <durationType>quarter</durationType>
+            <Lyrics>
+              <text>ooh,</text>
+              </Lyrics>
+            <Note>
+              <pitch>73</pitch>
+              <tpc>9</tpc>
+              </Note>
+            </Chord>
+          <Rest>
+            <durationType>16th</durationType>
             </Rest>
           <Chord>
             <durationType>16th</durationType>
@@ -9049,7 +9073,7 @@
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
-              <text>er</text>
+              <text>er,</text>
               </Lyrics>
             <Note>
               <pitch>73</pitch>
@@ -9059,12 +9083,19 @@
           <Rest>
             <durationType>eighth</durationType>
             </Rest>
-          <Rest>
-            <durationType>quarter</durationType>
-            </Rest>
-          <Rest>
+          <Chord>
             <dots>1</dots>
-            <durationType>eighth</durationType>
+            <durationType>quarter</durationType>
+            <Lyrics>
+              <text>ooh,</text>
+              </Lyrics>
+            <Note>
+              <pitch>73</pitch>
+              <tpc>9</tpc>
+              </Note>
+            </Chord>
+          <Rest>
+            <durationType>16th</durationType>
             </Rest>
           <Chord>
             <durationType>16th</durationType>
@@ -9809,12 +9840,19 @@
           <Rest>
             <durationType>eighth</durationType>
             </Rest>
-          <Rest>
-            <durationType>quarter</durationType>
-            </Rest>
-          <Rest>
+          <Chord>
             <dots>1</dots>
-            <durationType>eighth</durationType>
+            <durationType>quarter</durationType>
+            <Lyrics>
+              <text>ooh,</text>
+              </Lyrics>
+            <Note>
+              <pitch>73</pitch>
+              <tpc>9</tpc>
+              </Note>
+            </Chord>
+          <Rest>
+            <durationType>16th</durationType>
             </Rest>
           <Chord>
             <durationType>16th</durationType>
@@ -10004,7 +10042,7 @@
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
-              <text>er</text>
+              <text>er,</text>
               </Lyrics>
             <Note>
               <pitch>73</pitch>
@@ -10014,12 +10052,19 @@
           <Rest>
             <durationType>eighth</durationType>
             </Rest>
-          <Rest>
-            <durationType>quarter</durationType>
-            </Rest>
-          <Rest>
+          <Chord>
             <dots>1</dots>
-            <durationType>eighth</durationType>
+            <durationType>quarter</durationType>
+            <Lyrics>
+              <text>ooh,</text>
+              </Lyrics>
+            <Note>
+              <pitch>73</pitch>
+              <tpc>9</tpc>
+              </Note>
+            </Chord>
+          <Rest>
+            <durationType>16th</durationType>
             </Rest>
           <Chord>
             <durationType>16th</durationType>
@@ -10028,8 +10073,8 @@
               <text>be</text>
               </Lyrics>
             <Note>
-              <pitch>70</pitch>
-              <tpc>12</tpc>
+              <pitch>73</pitch>
+              <tpc>9</tpc>
               </Note>
             </Chord>
           </voice>
@@ -11832,12 +11877,19 @@
           <Rest>
             <durationType>eighth</durationType>
             </Rest>
-          <Rest>
-            <durationType>quarter</durationType>
-            </Rest>
-          <Rest>
+          <Chord>
             <dots>1</dots>
-            <durationType>eighth</durationType>
+            <durationType>quarter</durationType>
+            <Lyrics>
+              <text>ooh,</text>
+              </Lyrics>
+            <Note>
+              <pitch>70</pitch>
+              <tpc>12</tpc>
+              </Note>
+            </Chord>
+          <Rest>
+            <durationType>16th</durationType>
             </Rest>
           <Chord>
             <durationType>16th</durationType>
@@ -12024,7 +12076,7 @@
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
-              <text>er</text>
+              <text>er,</text>
               </Lyrics>
             <Note>
               <pitch>70</pitch>
@@ -12034,12 +12086,19 @@
           <Rest>
             <durationType>eighth</durationType>
             </Rest>
-          <Rest>
-            <durationType>quarter</durationType>
-            </Rest>
-          <Rest>
+          <Chord>
             <dots>1</dots>
-            <durationType>eighth</durationType>
+            <durationType>quarter</durationType>
+            <Lyrics>
+              <text>ooh,</text>
+              </Lyrics>
+            <Note>
+              <pitch>70</pitch>
+              <tpc>12</tpc>
+              </Note>
+            </Chord>
+          <Rest>
+            <durationType>16th</durationType>
             </Rest>
           <Chord>
             <durationType>16th</durationType>
@@ -12540,12 +12599,19 @@
           <Rest>
             <durationType>eighth</durationType>
             </Rest>
-          <Rest>
-            <durationType>quarter</durationType>
-            </Rest>
-          <Rest>
+          <Chord>
             <dots>1</dots>
-            <durationType>eighth</durationType>
+            <durationType>quarter</durationType>
+            <Lyrics>
+              <text>ooh,</text>
+              </Lyrics>
+            <Note>
+              <pitch>70</pitch>
+              <tpc>12</tpc>
+              </Note>
+            </Chord>
+          <Rest>
+            <durationType>16th</durationType>
             </Rest>
           <Chord>
             <durationType>16th</durationType>
@@ -13788,12 +13854,19 @@
           <Rest>
             <durationType>eighth</durationType>
             </Rest>
-          <Rest>
-            <durationType>quarter</durationType>
-            </Rest>
-          <Rest>
+          <Chord>
             <dots>1</dots>
-            <durationType>eighth</durationType>
+            <durationType>quarter</durationType>
+            <Lyrics>
+              <text>ooh,</text>
+              </Lyrics>
+            <Note>
+              <pitch>70</pitch>
+              <tpc>12</tpc>
+              </Note>
+            </Chord>
+          <Rest>
+            <durationType>16th</durationType>
             </Rest>
           <Chord>
             <durationType>16th</durationType>
@@ -13980,7 +14053,7 @@
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
-              <text>er</text>
+              <text>er,</text>
               </Lyrics>
             <Note>
               <pitch>70</pitch>
@@ -13990,12 +14063,19 @@
           <Rest>
             <durationType>eighth</durationType>
             </Rest>
-          <Rest>
-            <durationType>quarter</durationType>
-            </Rest>
-          <Rest>
+          <Chord>
             <dots>1</dots>
-            <durationType>eighth</durationType>
+            <durationType>quarter</durationType>
+            <Lyrics>
+              <text>ooh,</text>
+              </Lyrics>
+            <Note>
+              <pitch>70</pitch>
+              <tpc>12</tpc>
+              </Note>
+            </Chord>
+          <Rest>
+            <durationType>16th</durationType>
             </Rest>
           <Chord>
             <durationType>16th</durationType>
@@ -14491,12 +14571,19 @@
           <Rest>
             <durationType>eighth</durationType>
             </Rest>
-          <Rest>
-            <durationType>quarter</durationType>
-            </Rest>
-          <Rest>
+          <Chord>
             <dots>1</dots>
-            <durationType>eighth</durationType>
+            <durationType>quarter</durationType>
+            <Lyrics>
+              <text>ooh,</text>
+              </Lyrics>
+            <Note>
+              <pitch>70</pitch>
+              <tpc>12</tpc>
+              </Note>
+            </Chord>
+          <Rest>
+            <durationType>16th</durationType>
             </Rest>
           <Chord>
             <durationType>16th</durationType>
@@ -15279,12 +15366,19 @@
           <Rest>
             <durationType>eighth</durationType>
             </Rest>
-          <Rest>
-            <durationType>quarter</durationType>
-            </Rest>
-          <Rest>
+          <Chord>
             <dots>1</dots>
-            <durationType>eighth</durationType>
+            <durationType>quarter</durationType>
+            <Lyrics>
+              <text>ooh,</text>
+              </Lyrics>
+            <Note>
+              <pitch>70</pitch>
+              <tpc>12</tpc>
+              </Note>
+            </Chord>
+          <Rest>
+            <durationType>16th</durationType>
             </Rest>
           <Chord>
             <durationType>16th</durationType>
@@ -15471,7 +15565,7 @@
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
-              <text>er</text>
+              <text>er,</text>
               </Lyrics>
             <Note>
               <pitch>70</pitch>
@@ -15481,12 +15575,19 @@
           <Rest>
             <durationType>eighth</durationType>
             </Rest>
-          <Rest>
-            <durationType>quarter</durationType>
-            </Rest>
-          <Rest>
+          <Chord>
             <dots>1</dots>
-            <durationType>eighth</durationType>
+            <durationType>quarter</durationType>
+            <Lyrics>
+              <text>ooh,</text>
+              </Lyrics>
+            <Note>
+              <pitch>70</pitch>
+              <tpc>12</tpc>
+              </Note>
+            </Chord>
+          <Rest>
+            <durationType>16th</durationType>
             </Rest>
           <Chord>
             <durationType>16th</durationType>
@@ -15495,8 +15596,8 @@
               <text>be</text>
               </Lyrics>
             <Note>
-              <pitch>65</pitch>
-              <tpc>13</tpc>
+              <pitch>66</pitch>
+              <tpc>8</tpc>
               </Note>
             </Chord>
           </voice>
@@ -15700,68 +15801,6 @@
             <durationType>half</durationType>
             </Rest>
           </voice>
-        <voice>
-          <Chord>
-            <dots>1</dots>
-            <durationType>eighth</durationType>
-            <Note>
-              <pitch>54</pitch>
-              <tpc>8</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>16th</durationType>
-            <Note>
-              <pitch>61</pitch>
-              <tpc>9</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <dots>1</dots>
-            <durationType>eighth</durationType>
-            <Note>
-              <pitch>54</pitch>
-              <tpc>8</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>16th</durationType>
-            <Note>
-              <pitch>61</pitch>
-              <tpc>9</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <dots>1</dots>
-            <durationType>eighth</durationType>
-            <Note>
-              <pitch>54</pitch>
-              <tpc>8</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>16th</durationType>
-            <Note>
-              <pitch>61</pitch>
-              <tpc>9</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <dots>1</dots>
-            <durationType>eighth</durationType>
-            <Note>
-              <pitch>54</pitch>
-              <tpc>8</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>16th</durationType>
-            <Note>
-              <pitch>61</pitch>
-              <tpc>9</tpc>
-              </Note>
-            </Chord>
-          </voice>
         </Measure>
       <Measure>
         <voice>
@@ -15769,71 +15808,6 @@
             <durationType>measure</durationType>
             <duration>4/4</duration>
             </Rest>
-          </voice>
-        <voice>
-          <Chord>
-            <dots>1</dots>
-            <durationType>eighth</durationType>
-            <Note>
-              <Accidental>
-                <subtype>accidentalNatural</subtype>
-                </Accidental>
-              <pitch>57</pitch>
-              <tpc>17</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>16th</durationType>
-            <Note>
-              <pitch>60</pitch>
-              <tpc>14</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <dots>1</dots>
-            <durationType>eighth</durationType>
-            <Note>
-              <pitch>57</pitch>
-              <tpc>17</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>16th</durationType>
-            <Note>
-              <pitch>60</pitch>
-              <tpc>14</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <dots>1</dots>
-            <durationType>eighth</durationType>
-            <Note>
-              <pitch>57</pitch>
-              <tpc>17</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>16th</durationType>
-            <Note>
-              <pitch>60</pitch>
-              <tpc>14</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <dots>1</dots>
-            <durationType>eighth</durationType>
-            <Note>
-              <pitch>57</pitch>
-              <tpc>17</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>16th</durationType>
-            <Note>
-              <pitch>60</pitch>
-              <tpc>14</tpc>
-              </Note>
-            </Chord>
           </voice>
         </Measure>
       <Measure>
@@ -17355,12 +17329,19 @@
           <Rest>
             <durationType>eighth</durationType>
             </Rest>
-          <Rest>
-            <durationType>quarter</durationType>
-            </Rest>
-          <Rest>
+          <Chord>
             <dots>1</dots>
-            <durationType>eighth</durationType>
+            <durationType>quarter</durationType>
+            <Lyrics>
+              <text>ooh,</text>
+              </Lyrics>
+            <Note>
+              <pitch>61</pitch>
+              <tpc>9</tpc>
+              </Note>
+            </Chord>
+          <Rest>
+            <durationType>16th</durationType>
             </Rest>
           <Chord>
             <durationType>16th</durationType>
@@ -17550,7 +17531,7 @@
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
-              <text>er</text>
+              <text>er,</text>
               </Lyrics>
             <Note>
               <pitch>61</pitch>
@@ -17560,12 +17541,19 @@
           <Rest>
             <durationType>eighth</durationType>
             </Rest>
-          <Rest>
-            <durationType>quarter</durationType>
-            </Rest>
-          <Rest>
+          <Chord>
             <dots>1</dots>
-            <durationType>eighth</durationType>
+            <durationType>quarter</durationType>
+            <Lyrics>
+              <text>ooh,</text>
+              </Lyrics>
+            <Note>
+              <pitch>61</pitch>
+              <tpc>9</tpc>
+              </Note>
+            </Chord>
+          <Rest>
+            <durationType>16th</durationType>
             </Rest>
           <Chord>
             <durationType>16th</durationType>
@@ -18066,12 +18054,19 @@
           <Rest>
             <durationType>eighth</durationType>
             </Rest>
-          <Rest>
-            <durationType>quarter</durationType>
-            </Rest>
-          <Rest>
+          <Chord>
             <dots>1</dots>
-            <durationType>eighth</durationType>
+            <durationType>quarter</durationType>
+            <Lyrics>
+              <text>ooh,</text>
+              </Lyrics>
+            <Note>
+              <pitch>61</pitch>
+              <tpc>9</tpc>
+              </Note>
+            </Chord>
+          <Rest>
+            <durationType>16th</durationType>
             </Rest>
           <Chord>
             <durationType>16th</durationType>
@@ -19669,12 +19664,19 @@
           <Rest>
             <durationType>eighth</durationType>
             </Rest>
-          <Rest>
-            <durationType>quarter</durationType>
-            </Rest>
-          <Rest>
+          <Chord>
             <dots>1</dots>
-            <durationType>eighth</durationType>
+            <durationType>quarter</durationType>
+            <Lyrics>
+              <text>ooh,</text>
+              </Lyrics>
+            <Note>
+              <pitch>61</pitch>
+              <tpc>9</tpc>
+              </Note>
+            </Chord>
+          <Rest>
+            <durationType>16th</durationType>
             </Rest>
           <Chord>
             <durationType>16th</durationType>
@@ -19864,7 +19866,7 @@
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
-              <text>er</text>
+              <text>er,</text>
               </Lyrics>
             <Note>
               <pitch>61</pitch>
@@ -19874,12 +19876,19 @@
           <Rest>
             <durationType>eighth</durationType>
             </Rest>
-          <Rest>
-            <durationType>quarter</durationType>
-            </Rest>
-          <Rest>
+          <Chord>
             <dots>1</dots>
-            <durationType>eighth</durationType>
+            <durationType>quarter</durationType>
+            <Lyrics>
+              <text>ooh,</text>
+              </Lyrics>
+            <Note>
+              <pitch>61</pitch>
+              <tpc>9</tpc>
+              </Note>
+            </Chord>
+          <Rest>
+            <durationType>16th</durationType>
             </Rest>
           <Chord>
             <durationType>16th</durationType>
@@ -20375,12 +20384,19 @@
           <Rest>
             <durationType>eighth</durationType>
             </Rest>
-          <Rest>
-            <durationType>quarter</durationType>
-            </Rest>
-          <Rest>
+          <Chord>
             <dots>1</dots>
-            <durationType>eighth</durationType>
+            <durationType>quarter</durationType>
+            <Lyrics>
+              <text>ooh,</text>
+              </Lyrics>
+            <Note>
+              <pitch>61</pitch>
+              <tpc>9</tpc>
+              </Note>
+            </Chord>
+          <Rest>
+            <durationType>16th</durationType>
             </Rest>
           <Chord>
             <durationType>16th</durationType>
@@ -21556,12 +21572,19 @@
           <Rest>
             <durationType>eighth</durationType>
             </Rest>
-          <Rest>
-            <durationType>quarter</durationType>
-            </Rest>
-          <Rest>
+          <Chord>
             <dots>1</dots>
-            <durationType>eighth</durationType>
+            <durationType>quarter</durationType>
+            <Lyrics>
+              <text>ooh,</text>
+              </Lyrics>
+            <Note>
+              <pitch>61</pitch>
+              <tpc>9</tpc>
+              </Note>
+            </Chord>
+          <Rest>
+            <durationType>16th</durationType>
             </Rest>
           <Chord>
             <durationType>16th</durationType>
@@ -21751,7 +21774,7 @@
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
-              <text>er</text>
+              <text>er,</text>
               </Lyrics>
             <Note>
               <pitch>61</pitch>
@@ -21761,12 +21784,19 @@
           <Rest>
             <durationType>eighth</durationType>
             </Rest>
-          <Rest>
-            <durationType>quarter</durationType>
-            </Rest>
-          <Rest>
+          <Chord>
             <dots>1</dots>
-            <durationType>eighth</durationType>
+            <durationType>quarter</durationType>
+            <Lyrics>
+              <text>ooh,</text>
+              </Lyrics>
+            <Note>
+              <pitch>61</pitch>
+              <tpc>9</tpc>
+              </Note>
+            </Chord>
+          <Rest>
+            <durationType>16th</durationType>
             </Rest>
           <Chord>
             <durationType>16th</durationType>
